@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hey there! 👋 I'm Pathum Waduthanthri</h1>
 <h3 align="center">Aspiring Frontend Web Developer | Lifelong Learner</h3>
 
