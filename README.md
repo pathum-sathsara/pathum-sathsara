@@ -1,7 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi...!%20%20%20%20%20%2%I'm%20Arunadha%20Sahabandu&fontSize=40&fontAlign=64&fontAlignY=23&animation=twinkling&descAlign=85&textBg=false&section=header&desc=Full%20Stack%20Developer%20|%20Student&descAlignY=39&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=maroon&text=Hey%20there!%20%F0%9F%91%8B%20I'm%20Pathum%20Waduthanthri&fontSize=40&fontAlign=64&fontAlignY=23&animation=twinkling&desc=Aspiring%20Frontend%20Web%20Developer%20%7C%20Lifelong%20Learner&descSize=18&descAlign=85&descAlignY=39&textBg=false&section=header)
 
-<h1 align="center">Hey there! 👋 I'm Pathum Waduthanthri</h1>
-<h3 align="center">Aspiring Frontend Web Developer | Lifelong Learner</h3>
 
 
 I'm a frontend web developer who is passionate about crafting clean and user-friendly websites. I'm continuously learning and improving, always striving to grow from my past mistakes and experiences. I believe every error is a step toward mastery.
