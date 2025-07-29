@@ -1,5 +1,9 @@
 ## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm Pathum Waduthanthri</h1>
+<h3 align="center">Aspiring Frontend Web Developer | Lifelong Learner</h3>
 
+
+I'm a frontend web developer who is passionate about crafting clean and user-friendly websites. I'm continuously learning and improving, always striving to grow from my past mistakes and experiences. I believe every error is a step toward mastery.
 <!--
 **pathum-sathsara/pathum-sathsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
