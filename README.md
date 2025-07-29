@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=maroon&text=Hey%20there!%20%F0%9F%91%8B%20I%27m%20Pathum%20Waduthanthri&fontSize=40&fontAlign=64&fontAlignY=23&animation=twinkling&desc=Aspiring%20Frontend%20Web%20Developer%20%7C%20Lifelong%20Learner&descSize=18&descAlign=85&descAlignY=39&textBg=false&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=maroon&text=Hey%20there!%20I'm%20Pathum%20Waduthanthri&fontSize=35&fontAlign=40&fontAlignY=30&animation=twinkling&desc=Aspiring%20Frontend%20Web%20Developer%20%7C%20Lifelong%20Learner&descSize=18&descAlign=50&descAlignY=55)
 
 
 
