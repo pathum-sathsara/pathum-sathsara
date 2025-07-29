@@ -1,12 +1,11 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi...!%20%20%20%20%20%2%I'm%20Arunadha%20Sahabandu&fontSize=40&fontAlign=64&fontAlignY=23&animation=twinkling&descAlign=85&textBg=false&section=header&desc=Full%20Stack%20Developer%20|%20Student&descAlignY=39&descSize=16)
+
 <h1 align="center">Hey there! 👋 I'm Pathum Waduthanthri</h1>
 <h3 align="center">Aspiring Frontend Web Developer | Lifelong Learner</h3>
 
 
 I'm a frontend web developer who is passionate about crafting clean and user-friendly websites. I'm continuously learning and improving, always striving to grow from my past mistakes and experiences. I believe every error is a step toward mastery.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pathum-sathsara&theme=react-dark&hide_border=true&count_private=true" alt="GitHub Activity Graph" />
-</p>
 
 
 <!--
