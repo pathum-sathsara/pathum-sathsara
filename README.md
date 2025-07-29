@@ -4,7 +4,10 @@
 
 I'm a frontend web developer who is passionate about crafting clean and user-friendly websites. I'm continuously learning and improving, always striving to grow from my past mistakes and experiences. I believe every error is a step toward mastery.
 
-<img src="https://komarev.com/ghpvc/?username=pathum-sathsara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pathum-sathsara&theme=react-dark&hide_border=true&count_private=true" alt="GitHub Activity Graph" />
+</p>
+
 
 <!--
 **pathum-sathsara/pathum-sathsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
